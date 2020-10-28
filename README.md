@@ -1,4 +1,4 @@
-# Estilos Arquiteturais: Reposorio
+# Estilos Arquiteturais: Repositório
 
 Aplicação simples de uma api que compartilha dados de livros como nome, autor e ano.
 
